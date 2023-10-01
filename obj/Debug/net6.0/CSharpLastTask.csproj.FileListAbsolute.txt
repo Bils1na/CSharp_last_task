@@ -1,0 +1,15 @@
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\bin\Debug\net6.0\CSharpLastTask.exe
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\bin\Debug\net6.0\CSharpLastTask.deps.json
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\bin\Debug\net6.0\CSharpLastTask.runtimeconfig.json
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\bin\Debug\net6.0\CSharpLastTask.dll
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\bin\Debug\net6.0\CSharpLastTask.pdb
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.csproj.AssemblyReference.cache
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.AssemblyInfoInputs.cache
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.AssemblyInfo.cs
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.csproj.CoreCompileInputs.cache
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.dll
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\refint\CSharpLastTask.dll
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.pdb
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\CSharpLastTask.genruntimeconfig.cache
+C:\Users\ЯмиляАртемий\OneDrive\Рабочий стол\CSharpLastTask\obj\Debug\net6.0\ref\CSharpLastTask.dll
