@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ЯмиляАртемий\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ЯмиляАртемий\\OneDrive\\Рабочий стол\\CSharpLastTask\\CSharpLastTask.csproj",
+      "projectUniqueName": "/workspaces/CSharp_last_task/CSharpLastTask.csproj",
       "projectName": "CSharpLastTask",
-      "projectPath": "C:\\Users\\ЯмиляАртемий\\OneDrive\\Рабочий стол\\CSharpLastTask\\CSharpLastTask.csproj",
-      "packagesPath": "C:\\Users\\ЯмиляАртемий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ЯмиляАртемий\\OneDrive\\Рабочий стол\\CSharpLastTask\\obj\\",
+      "projectPath": "/workspaces/CSharp_last_task/CSharpLastTask.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/CSharp_last_task/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ЯмиляАртемий\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -54,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.20, 6.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.20, 6.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.20, 6.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
   }

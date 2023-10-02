@@ -9,3 +9,52 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
+
+string[] FillStringArray(int size) 
+{
+    string[] arr = new string[size];
+
+    for (int i = 0; i < arr.Length; i++)
+    {
+        Console.Write("Enter string element >> ");
+        arr[i] = Console.ReadLine();
+    }
+
+    return arr;
+}
+
+string[] CreateNewArray(string[] arr)
+{
+    int count = 0;
+
+    for (int i = 0; i < arr.Length; i++)
+    {
+        if (arr[i].Length <= 3)
+        {
+          count++;
+        }
+    }
+    
+    string[] newArray = new string[count];
+
+    for (int i = 0; i < newArray.Length; i++)
+    {
+        for (int j = 0; j < arr.Length; j++)
+            {
+                if (arr[j].Length <= 3)
+                {
+                    newArray[i] = arr[j];
+                }
+            }
+    }
+
+    return newArray;
+}
+
+Console.Write("Enter number of elements >> ");
+int length = Convert.ToInt32(Console.ReadLine());
+string[] array = FillStringArray(length);
+
+Console.Write($"[{string.Join(", ", array)}] -> ");
+Console.Write($"[{string.Join(", ", CreateNewArray(array))}]");
+Console.WriteLine();
