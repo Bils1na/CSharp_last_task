@@ -23,7 +23,7 @@ string[] FillStringArray(int size)
     return arr;
 }
 
-string[] CreateNewArray(string[] arr)
+int FindLengthNewArray(string[] arr)
 {
     int count = 0;
 
@@ -34,8 +34,13 @@ string[] CreateNewArray(string[] arr)
           count++;
         }
     }
-    
-    string[] newArray = new string[count];
+
+    return count;
+}
+
+string[] CreateNewArray(string[] arr)
+{
+    string[] newArray = new string[FindLengthNewArray(arr)];
 
     for (int i = 0; i < newArray.Length; i++)
     {
