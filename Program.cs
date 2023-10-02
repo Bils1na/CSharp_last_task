@@ -46,9 +46,11 @@ string[] CreateNewArray(string[] arr)
     {
         for (int j = 0; j < arr.Length; j++)
             {
-                if (arr[j].Length <= 3)
+                if (arr[j].Length <= 3 && arr[j] != "")
                 {
                     newArray[i] = arr[j];
+                    arr[j] = "";
+                    break;
                 }
             }
     }
